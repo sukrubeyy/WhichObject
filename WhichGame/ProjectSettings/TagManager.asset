@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Kare
+  - Elips
+  - "Dikd\xF6rtgen"
+  - "Alt\u0131gen"
+  - "Be\u015Fgen"
+  - Daire
+  - Canvas
   layers:
   - Default
   - TransparentFX
